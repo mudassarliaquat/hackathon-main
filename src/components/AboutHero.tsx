@@ -15,7 +15,7 @@ function HeroSection() {
           />
         </div>
         <div className="md:w-1/2 md:ml-10">
-          <h1 className="text-4xl font-bold mb-4">Our service isn't just personal, it's actually hyper personally exquisite</h1>
+          <h1 className="text-4xl font-bold mb-4">Our service isnt just personal, its actually hyper personally exquisite</h1>
           <p className="text-lg mb-6">
             When we started Avion, the idea was simple: Make high-quality furniture affordable and available for the mass market.
           </p>
